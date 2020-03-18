@@ -1,0 +1,24 @@
+@font-face{
+ font-family: "courgette";
+ src:url('fonts/Courgette-Regular.ttf');
+}
+
+@font-face{
+ font-family: "kalambold";
+ src:url('fonts/Kalam-Bold.ttf');
+}
+
+@font-face{
+ font-family: "kalamlight";
+ src:url('fonts/Kalam-Light.ttf');
+}
+
+@font-face{
+ font-family: "kalamregular";
+ src:url('fonts/Kalam-Regular.ttf');
+}
+
+@font-face{
+ font-family: "satisfyregular";
+ src:url('fonts/Satisfy-Regular.ttf');
+}
